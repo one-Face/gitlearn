@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 learn --no-ff.
 learn ff merge.
 issue-100
+from f push
