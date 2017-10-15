@@ -5,3 +5,4 @@ Git tracks changes of file.
 create new branch.
 Creating a new branch is quick AND simple.
 learn --no-ff.
+learn ff merge.
